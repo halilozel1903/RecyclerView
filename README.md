@@ -1,7 +1,5 @@
 # Recycler View Kullanımı
 
-![Screenshot](image.png)
-
 ## Recycler View Nedir ?
 
 List View sınıfına oldukça benzemektedir. Recycler View, verileri kullanıcıya scroll edebilecek liste içerisinde sunar. <br>
